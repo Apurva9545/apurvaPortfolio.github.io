@@ -44,9 +44,7 @@ label{
     width:26px;
     float:right;
 }
-#toggle{
-    display:none;
-} */
+
 
  nav {
     display: flex;
@@ -76,22 +74,7 @@ a:active,a:hover{
     transition: .5s;
 }
 
-/* #nav-list{ 
-    display:none;
-} */
-    
-/* .checkbtn{
-    font-size: 30px;
-    color: white;
-    float: right;
-    line-height: 80px;
-    margin-right: 40px;
-    cursor: pointer;
-    display: none;
-  }
-#check{
-    display: none;
-  } */
+
 h2 {
     font-size: 90px;
     margin: 0;
@@ -261,13 +244,7 @@ a {
 
 }
 } */
- /* .hamburger {
-    display: none;
-}
-
-.hamburger:focus{
-    outline: 0;
-}    */
+ 
 
 
 
@@ -299,16 +276,7 @@ a {
     color: white;
 
   }
-      /* .hamburger {
-        display: block;
-        border: 0;
-        background-color: transparent;
-        color: white;
-        font-size: 30px;
-        margin: 20px;
-        align-self: flex-end;
-    }   
-    } */
+     
     ul {
         display: block;
         background-color: #2b2c38;
