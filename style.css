@@ -20,30 +20,7 @@ footer {
     text-align: center;
     padding: 80px;
 }
-/* .nav{
-     border-bottom:1px sloid white;
-     text-align:right;
-     height:70px;
-     line-height: 70px;
-}
-.menu{
-    margin: 0 30px 0 0;
-}
-.menu a{
-    clear:right;
-    text-decoration: none;
-    color:gray;
-    margin:10px;
-    line-height: 70px;
-}
-label{
-    margin:0 40px 0 0;
-    font-size: 26px;
-    line-height: 70px;
-    display:none;
-    width:26px;
-    float:right;
-}
+
 
 
  nav {
